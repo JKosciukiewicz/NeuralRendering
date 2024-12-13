@@ -1,0 +1,1 @@
+Projekt na zajęcia z przedmiotu "Neural Rendering w grafice 3D".
