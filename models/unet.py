@@ -1,9 +1,8 @@
 import torch
-import torchvision
 from torch import nn
 
 
-class BasicUNet(nn.Module):
+class UNet(nn.Module):
     """A minimal UNet implementation."""
 
     def __init__(self, in_channels=1, out_channels=1):
